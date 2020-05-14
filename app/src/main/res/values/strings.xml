@@ -1,0 +1,7 @@
+<resources>
+    <string name="detail_title">Personaje</string>
+    <string name="label_error">Ocurrio un error al tratar de recuperar la información</string>
+    <string name="app_name">Juego de tronos</string>
+    <string name="label_retry">Reintentar</string>
+    <string name="label_accept">Aceptar</string>
+</resources>

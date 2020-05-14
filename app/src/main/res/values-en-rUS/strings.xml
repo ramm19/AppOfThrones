@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Of Thrones</string>
+    <string name="detail_title">Character</string>
+    <string name="label_error">Request error</string>
+    <string name="label_retry">Retry</string>
+</resources>
